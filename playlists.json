@@ -1,0 +1,43 @@
+{
+    "Some": {
+        "description": "",
+        "songs": [
+            {
+                "filename": "Ozzy Osbourne - Goodbye to Romance",
+                "title": "Goodbye to Romance",
+                "artist": "Ozzy Osbourne",
+                "file_type": ".mp3",
+                "file_path": "D:\\projects\\Music_Stream\\music\\Ozzy Osbourne - Goodbye to Romance.mp3",
+                "file_size": 13429318,
+                "duration": 335725.7080078125
+            },
+            {
+                "filename": "Deep Purple - Speed King",
+                "title": "Speed King",
+                "artist": "Deep Purple",
+                "file_type": ".mp3",
+                "file_path": "D:\\projects\\Music_Stream\\music\\Deep Purple - Speed King.mp3",
+                "file_size": 14201562,
+                "duration": 350537.1398925781
+            },
+            {
+                "filename": "Deep Purple - Highway Star",
+                "title": "Highway Star",
+                "artist": "Deep Purple",
+                "file_type": ".mp3",
+                "file_path": "D:\\projects\\Music_Stream\\music\\Deep Purple - Highway Star.mp3",
+                "file_size": 14834774,
+                "duration": 366367.3400878906
+            },
+            {
+                "filename": "Ozzy Osbourne - Goodbye to Romance",
+                "title": "Goodbye to Romance",
+                "artist": "Ozzy Osbourne",
+                "file_type": ".mp3",
+                "file_path": "D:\\projects\\Music_Stream\\music\\Ozzy Osbourne - Goodbye to Romance.mp3",
+                "file_size": 13429318,
+                "duration": 335725.7080078125
+            }
+        ]
+    }
+}
