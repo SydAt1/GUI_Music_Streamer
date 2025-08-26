@@ -164,7 +164,7 @@ class GUIMusicPlayer:
         pygame.mixer.init()
         pygame.mixer.music.set_endevent(MUSIC_END)
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-        pygame.display.set_caption("Music Streamer")
+        pygame.display.set_caption("Go Streamer")
         self.clock = pygame.time.Clock()
         self.title_font = pygame.font.Font(None, 48)
         self.font = pygame.font.Font(None, 32)
